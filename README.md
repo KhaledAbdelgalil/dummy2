@@ -35,7 +35,9 @@ Static Hand Posture Databases,Jochen Triesch Static Hand Posture Database.
  
 -we save images in grey scale and binary format,it leads to bad accuracy as hand loses alot of its features(skin color matches the background color) .
 
-![](images_used_in_readme/stage2_1.jpg)![](images_used_in_readme/stage2_2.png)![](images_used_in_readme/stage2_3.png)
+![](images_used_in_readme/stage2_1.jpg)
+
+![](images_used_in_readme/stage2_2.png)![](images_used_in_readme/stage2_3.png)
 
 
 3)It's like second stage but instead of saving images in binary format,we save it in RGB, so we solved the problem of matching between skin color and background (reducing hand features) as image is taken in RGB (more features are considered).
