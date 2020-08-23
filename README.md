@@ -7,7 +7,7 @@ Firstly we used data from internet that wasn't good enough ,so we created our cu
 1-Egohands dataset:
 it's dataset found online that contains labeled data for hands.
 
-![Egohands dataset](images_used_in_readme\egohands.jpg)
+![](images_used_in_readme\egohands.jpg)
 
 Problem:The hand was detected in palm positions only ,so we need to find another solution
 
